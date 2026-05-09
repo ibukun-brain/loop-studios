@@ -4,7 +4,7 @@ An advanced creative studio website showcasing sophisticated design patterns, co
 
 ## 📸 Project Screenshot
 
-![Loop Studios Screenshot](./images/screenshot.png)
+![Loop Studios Screenshot](./images/loopstudios.png)
 
 ## 📝 Description
 
